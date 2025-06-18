@@ -14,7 +14,8 @@ namespace Student_API_Project.Controllers
             {
                 new { Id = 1, Name = "Amar", City="Satra" },
                 new { Id = 2, Name = "Akbar", City="Pune" },
-                new { Id = 3, Name = "Mahesh", City="Mumbai" }
+                new { Id = 3, Name = "Mahesh", City="Mumbai" },
+                new { Id = 4, Name = "Sneha", City="Kolhapur" }
             };
 
             return Ok(students);
