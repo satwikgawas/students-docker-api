@@ -4,8 +4,7 @@ WORKDIR /app
 COPY *.csproj ./
 RUN dotnet restore
 
-COPY . .  # You missed this line to copy your full source code
-
+COPY . .
 RUN dotnet publish -c Release -o out
 
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
