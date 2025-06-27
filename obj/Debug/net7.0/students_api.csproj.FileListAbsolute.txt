@@ -1,10 +1,3 @@
-D:\satwik\api-project\students_api\obj\Debug\net7.0\students_api.csproj.AssemblyReference.cache
-D:\satwik\api-project\students_api\obj\Debug\net7.0\students_api.GeneratedMSBuildEditorConfig.editorconfig
-D:\satwik\api-project\students_api\obj\Debug\net7.0\students_api.AssemblyInfoInputs.cache
-D:\satwik\api-project\students_api\obj\Debug\net7.0\students_api.AssemblyInfo.cs
-D:\satwik\api-project\students_api\obj\Debug\net7.0\students_api.csproj.CoreCompileInputs.cache
-D:\satwik\api-project\students_api\obj\Debug\net7.0\students_api.MvcApplicationPartsAssemblyInfo.cs
-D:\satwik\api-project\students_api\obj\Debug\net7.0\students_api.MvcApplicationPartsAssemblyInfo.cache
 D:\satwik\api-project\students_api\bin\Debug\net7.0\appsettings.Development.json
 D:\satwik\api-project\students_api\bin\Debug\net7.0\appsettings.json
 D:\satwik\api-project\students_api\bin\Debug\net7.0\students_api.exe
@@ -17,6 +10,13 @@ D:\satwik\api-project\students_api\bin\Debug\net7.0\Microsoft.OpenApi.dll
 D:\satwik\api-project\students_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\satwik\api-project\students_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\satwik\api-project\students_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\satwik\api-project\students_api\obj\Debug\net7.0\students_api.csproj.AssemblyReference.cache
+D:\satwik\api-project\students_api\obj\Debug\net7.0\students_api.GeneratedMSBuildEditorConfig.editorconfig
+D:\satwik\api-project\students_api\obj\Debug\net7.0\students_api.AssemblyInfoInputs.cache
+D:\satwik\api-project\students_api\obj\Debug\net7.0\students_api.AssemblyInfo.cs
+D:\satwik\api-project\students_api\obj\Debug\net7.0\students_api.csproj.CoreCompileInputs.cache
+D:\satwik\api-project\students_api\obj\Debug\net7.0\students_api.MvcApplicationPartsAssemblyInfo.cs
+D:\satwik\api-project\students_api\obj\Debug\net7.0\students_api.MvcApplicationPartsAssemblyInfo.cache
 D:\satwik\api-project\students_api\obj\Debug\net7.0\staticwebassets\msbuild.students_api.Microsoft.AspNetCore.StaticWebAssets.props
 D:\satwik\api-project\students_api\obj\Debug\net7.0\staticwebassets\msbuild.build.students_api.props
 D:\satwik\api-project\students_api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.students_api.props
